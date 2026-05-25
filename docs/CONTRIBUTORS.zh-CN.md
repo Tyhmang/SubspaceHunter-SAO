@@ -6,17 +6,17 @@
 
 ## 贡献者名单
 
-- Hexin Wang
-- youximi
+- 王欣
+- 你小米
 - 玖渚蓝/KunagisaAi
 - @chomoe327
-- 絶剣/tempestoso/@daviesdaa
-- ExcaliburNMB
-- 南梁楚歌
-- Dew
+- 绝剑/tempestoso/@daviesdaa
+- 剑圣NMB
+-南梁楚歌
+- 露水
 - 洛沐语/Luomuyu/@LuoMuyu
 - 阿炎/Ryan/@ayanlz
-
+- 天音海梦/@Tyhmang
 
 
 
@@ -25,14 +25,14 @@
 
 推荐使用：
 
-```md
-- 中文名 / English Name / @github-username
+```markdown
+- 中文名 / 英文名 / @github-用户名
 ```
 
 如果不想公开真实姓名，也可以只写 GitHub 用户名：
 
-```md
-- @github-username
+```markdown
+- @github-用户名
 ```
 
 ## 注意事项
